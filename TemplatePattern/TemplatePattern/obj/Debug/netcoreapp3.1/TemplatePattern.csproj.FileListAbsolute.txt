@@ -1,0 +1,14 @@
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern.deps.json
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern.runtimeconfig.json
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern.runtimeconfig.dev.json
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern.dll
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/bin/Debug/netcoreapp3.1/TemplatePattern.pdb
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.csproj.AssemblyReference.cache
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.AssemblyInfoInputs.cache
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.AssemblyInfo.cs
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.csproj.CoreCompileInputs.cache
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.dll
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.pdb
+/Users/lin-kuan-you/Projects/DesignPattern/TemplatePattern/TemplatePattern/obj/Debug/netcoreapp3.1/TemplatePattern.genruntimeconfig.cache
