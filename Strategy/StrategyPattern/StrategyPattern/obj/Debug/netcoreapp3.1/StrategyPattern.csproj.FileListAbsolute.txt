@@ -1,0 +1,14 @@
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.deps.json
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.json
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.dev.json
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csproj.AssemblyReference.cache
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfoInputs.cache
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfo.cs
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/lin-kuan-you/Projects/DesignPattern/Strategy/StrategyPattern/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.genruntimeconfig.cache
